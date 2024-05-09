@@ -1,0 +1,7 @@
+digraph G_nodo_origen_20 {
+	20 -> nodo_21(52);
+	20 -> nodo_26(16);
+	20 -> nodo_35(10);
+	20 -> nodo_45(38);
+	20 -> nodo_47(7);
+}
